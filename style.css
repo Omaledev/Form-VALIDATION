@@ -1,0 +1,33 @@
+.main-container {
+    overflow: hidden;
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+.container {
+    background-color: white;
+    height: 100vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    margin: 50px 0px;
+    padding: 10px;
+    border-radius: 5px;
+    
+    
+
+}
+
+.div {
+    margin-top: 20px;
+}
+
+.space {
+    width: 18vw;
+    height: 3vh ;
+}
